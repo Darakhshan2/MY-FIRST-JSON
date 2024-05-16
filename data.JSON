@@ -1,0 +1,24 @@
+{
+    "name":"Darakhshan",
+    "FatherName":"Junaid",
+    "age":19,
+    "is Student":true,
+    "institute":"governor It initiative",
+    "year":"2023",
+    "course":"AI engineer",
+    "address":{
+        "city":"karachi",
+        "location":"Governor House karachi"
+    },
+    "duration":"one year",
+    "successful":"IN SHA ALLAH",
+
+     "lunch":["biryani","raita",{"juice":"orange",
+     "milkshake":"mangoshake",
+     "price":799,
+     "isGood":true,
+     "youloveIt":"yes! really"},
+     "water","coffee"],
+
+    "skill":["Javascript","nodejs","typescript","react etc"]
+}
